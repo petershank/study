@@ -1,0 +1,16 @@
+{
+  "name": "study",
+  "version": "0.1.0",
+  "description": "a single page web app for studying the contents of an arbitrary json file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "study",
+    "flashcard",
+    "json"
+  ],
+  "author": "peter@shank.com",
+  "license": "ISC"
+}
